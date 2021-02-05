@@ -65,7 +65,7 @@
 <br />
 
 ### Let's Connect!
-<a target="_blank" href='https://www.linkedin.com/in/james-kole-a548541a1/'>
+<a target=_blank href='https://www.linkedin.com/in/james-kole-a548541a1/'>
   <img alt='linkedin' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
