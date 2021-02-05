@@ -3,7 +3,7 @@
 ### Technology Stack
 #### Click to be directed to the documentation
 
-<a align=left target="_blank" href='https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5'>
+<a target="_blank" href='https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5'>
   <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
 <a align=left target="_blank" href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
@@ -45,22 +45,29 @@
 <a align=left target="_blank" href='https://enzymejs.github.io/enzyme/'>
   <img alt="Enzyme" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Airbnb-512.png" />
 </a>
-<a target="_blank" href='https://handlebarsjs.com/'>
+<a align=left target="_blank" href='https://handlebarsjs.com/'>
   <img alt="Handlebars" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/handlebars-282936.png" />
 </a>
                                                                                                          
 <br />
-<br />
 
 ### Currently Learning
-<a target="_blank" align=left href='https://handlebarsjs.com/'>
+<a target="_blank" href='https://handlebarsjs.com/'>
   <img alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 </a>
 <a target="_blank" align=left href='https://reactnative.dev/'>
   <img alt="React Native" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
 </a>
-<a target="_blank" href='https://www.typescriptlang.org/'>
+<a align=left target="_blank" href='https://www.typescriptlang.org/'>
   <img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 </a>
+
+<br />
+
+### Let's Connect!
+<a target="_blank" href='https://www.linkedin.com/in/james-kole-a548541a1/'>
+  <img alt='linkedin' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 
