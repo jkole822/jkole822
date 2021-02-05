@@ -18,7 +18,6 @@
 <img align="left" alt="Handlebars" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/handlebars-282936.png" />
 
 <br />
-<hr />
 
 ### Currently Learning
 <img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
