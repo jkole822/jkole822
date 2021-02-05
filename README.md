@@ -71,6 +71,7 @@
 
 <img align="left" alt="Kole's GitHub Stats" src="https://github-readme-stats-black-nine-15.vercel.app/api?username=jkole822&show_icons=true&hide_border=true&hide=stars&theme=react" />
 
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkole822)](https://github.com/anuraghazra/github-readme-stats)
 
