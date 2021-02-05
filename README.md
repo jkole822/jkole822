@@ -6,7 +6,7 @@
 👀 Seeking new job opportunities!  
 
 ### Technology Stack
-#### Click to be directed to the documentation
+#### Click to be directed to the website/documentation
 
 <a href='https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5'>
   <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
