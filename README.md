@@ -9,7 +9,7 @@
 <a align=left href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
   <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 </a>
-<a align=lefthref='https://www.javascript.com/'>
+<a align=left href='https://www.javascript.com/'>
   <img alt="JavaScript" width="40x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
 <a align=left href='https://reactjs.org/'>
