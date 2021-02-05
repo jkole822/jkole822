@@ -2,11 +2,15 @@
 
 ### Technology Stack
 
-<a href='https://reactjs.org/'>
-  <img align=left alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<a align=left href='https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5'>
+  <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 </a>
-<img align=left alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align=left alt="JavaScript" width="40x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<a align=left href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+  <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+</a>
+<a href='https://www.javascript.com/'>
+  <img align=left alt="JavaScript" width="40x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+ </a>
 <img align=left alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align=left alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align=left alt="MongoDB" width="40px" src="https://www.instana.com/media//01_INSTANA_IconSet_MongoDB.svg" />
@@ -19,6 +23,9 @@
 <img align=left alt=Jest" width="40px" src="https://nx.dev/assets/documentation/11.2.7/shared/jest-logo.png" />
 <img align=left alt="Enzyme" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Airbnb-512.png" />
 <img align=left alt="Handlebars" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/handlebars-282936.png" />
+     
+<br />
+<br />
 
 ### Currently Learning
 <img align=left alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
