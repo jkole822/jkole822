@@ -70,6 +70,9 @@
 </a>
 
 <br />
+<br />
+
+### Github Stats
 
 <img alt="Kole's GitHub Stats" src="https://github-readme-stats-black-nine-15.vercel.app/api?username=jkole822&show_icons=true&hide_border=true&hide=stars&theme=react" />
 
