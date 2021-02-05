@@ -1,5 +1,10 @@
 ## Hello, my name is Kole. Welcome to my GitHub! 😄
 
+💪 Full-stack Web Developer
+👓 Science background
+🌱 Currently enrolled in the Ohio State University Full-stack Web Development Bootcamp. (Completion 4/21)
+👀 Seeking new job opportunities!
+
 ### Technology Stack
 #### Click to be directed to the documentation
 
