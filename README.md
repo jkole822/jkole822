@@ -17,8 +17,14 @@
 <a align=left href='https://www.javascript.com/'>
   <img alt="JavaScript" width="40x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 </a>
+<a align=left href='https://jquery.com/'>
+  <img alt="jQuery" width="40x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+</a>
 <a align=left href='https://reactjs.org/'>
   <img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+</a>
+<a align=left href='https://redux.js.org/'>
+  <img alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 </a>
 <a align=left href='https://nodejs.org/en/'>
   <img alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
