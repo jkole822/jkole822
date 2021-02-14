@@ -5,6 +5,8 @@
 🌱 Currently enrolled in the Ohio State University Full-stack Web Development Bootcamp. (Completion 4/21)  
 👀 Seeking new job opportunities!  
 
+📂 [View my portfolio!](http://jkg-portfolio-2.herokuapp.com/)
+
 ## About Me
 JavaScript developer leveraging a science background to develop quality and user-friendly web applications and websites. Since the beginning of 2020, I have acquired knowledge and experience with technologies such as JavaScript, jQuery, HTML, CSS, React, Redux, Node, Express, MongoDB, SQL, ORMs, Templating Engines, and Testing Frameworks. I am currently enrolled in a program for Web Development at the Ohio State University where I am expanding and polishing my skill set. Prior work and educational experience has been formative to my high attention-to-detail and degree of accuracy, organizational skills, and critical thinking ability which, alongside my proven history of strong work ethic and efficiently handling multiple responsibilities, serve to achieve challenging and complex objectives such as developing fully-functional, intuitive, and engaging web applications. I constantly strive to improve my expertise and am eager share my passion with an innovative team dedicated to develop and deliver quality applications.
 
