@@ -56,7 +56,7 @@ JavaScript developer leveraging a science background to develop quality and user
   <img alt="Passport" width="40px" src="https://avatars.githubusercontent.com/u/1160530?s=200&v=4" />
 </a>
 <a align=left href='https://jestjs.io/'>
-  <img alt=Jest" width="40px" src="https://nx.dev/assets/documentation/11.2.7/shared/jest-logo.png" />
+  <img alt=Jest" width="40px" src="https://www.pngkin.com/mnp/116-1160891.png" />
 </a>
 <a align=left href='https://enzymejs.github.io/enzyme/'>
   <img alt="Enzyme" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Airbnb-512.png" />
