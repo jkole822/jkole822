@@ -81,7 +81,7 @@ JavaScript developer leveraging a science background to develop quality and user
 <br />
 
 ### Let's Connect!
-<a href='https://www.linkedin.com/in/james-kole-a548541a1/'>
+<a href='https://www.linkedin.com/in/jkole822/'>
   <img alt='linkedin' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
