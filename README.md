@@ -1,6 +1,6 @@
 ## Hello, my name is Kole. Welcome to my GitHub! 😄
 
-💼 Solutions Engineer
+💼 Solutions Engineer  
 💻 JavaScript Developer  
 👓 Science Background  
 🌱 Currently enrolled in the Ohio State University Full-stack Web Development Bootcamp. (Completion 4/21)  
