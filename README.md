@@ -1,14 +1,11 @@
 ## Hello, my name is Kole. Welcome to my GitHub! 😄
 
-💪 Full-stack Web Developer  
-👓 Science background  
+💼 Solutions Engineer
+💻 JavaScript Developer  
+👓 Science Background  
 🌱 Currently enrolled in the Ohio State University Full-stack Web Development Bootcamp. (Completion 4/21)  
-👀 Seeking new job opportunities!  
 
 📂 [View my portfolio!](https://jkg-portfolio-2.herokuapp.com/)
-
-## About Me
-JavaScript developer leveraging a science background to develop quality and user-friendly web applications and websites. Since the beginning of 2020, I have acquired knowledge and experience with technologies such as JavaScript, jQuery, HTML, CSS, React, Redux, Node, Express, MongoDB, SQL, ORMs, Templating Engines, and Testing Frameworks. I am currently enrolled in a program for Web Development at the Ohio State University where I am expanding and polishing my skill set. Prior work and educational experience has been formative to my high attention-to-detail and degree of accuracy, organizational skills, and critical thinking ability which, alongside my proven history of strong work ethic and efficiently handling multiple responsibilities, serve to achieve challenging and complex objectives such as developing fully-functional, intuitive, and engaging web applications. I constantly strive to improve my expertise and am eager share my passion with an innovative team dedicated to develop and deliver quality applications.
 
 ### Technology Stack
 #### Click to be directed to the website/documentation
@@ -28,9 +25,16 @@ JavaScript developer leveraging a science background to develop quality and user
 <a align=left href='https://reactjs.org/'>
   <img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 </a>
+<a align=left href='https://reactnative.dev/'>
+  <img alt="React Native" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
+</a> 
+NATIVE
 <a align=left href='https://redux.js.org/'>
   <img alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 </a>
+<a href='https://angular.io/'>
+  <img alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+</a> 
 <a align=left href='https://nodejs.org/en/'>
   <img alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 </a>
@@ -68,16 +72,10 @@ JavaScript developer leveraging a science background to develop quality and user
 <br />
 
 ### Currently Learning
-<a href='https://handlebarsjs.com/'>
-  <img alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+MEAN Stack
+<a align=left href='https://vuejs.org/'>
+  <img alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 </a>
-<a align=left href='https://reactnative.dev/'>
-  <img alt="React Native" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
-</a>
-<a align=left href='https://www.typescriptlang.org/'>
-  <img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-</a>
-
 <br />
 
 ### Let's Connect!
