@@ -5,8 +5,6 @@
 👓 Science Background  
 🌱 Currently enrolled in the Ohio State University Full-stack Web Development Bootcamp. (Completion 4/21)  
 
-📂 [View my portfolio!](https://jkg-portfolio-2.herokuapp.com/)
-
 ### Technology Stack
 #### Click to be directed to the website/documentation
 
