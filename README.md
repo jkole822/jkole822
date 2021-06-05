@@ -1,8 +1,6 @@
 ## Hello, my name is Kole. Welcome to my GitHub! 😄
 
 💼 Solutions Engineer  
-💻 JavaScript Developer  
-👓 Science Background  
 🌱 Alumni of the Ohio State University Full-stack Web Development Bootcamp. (Completion 4/21)  
 
 ### Technology Stack
@@ -67,18 +65,6 @@ NATIVE
   <img alt="Handlebars" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/handlebars-282936.png" />
 </a>
                                                                                                          
-<br />
-
-### Currently Learning
-<a align=left href='https://vuejs.org/'>
-  <img alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-</a>
-<a align=left href='https://www.ruby-lang.org/en/'>
-  <img alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-</a>
-<a align=left href='https://rubyonrails.org/'>
-  <img alt="Vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-</a>
 <br />
 
 ### Let's Connect!
