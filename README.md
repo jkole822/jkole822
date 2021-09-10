@@ -1,7 +1,6 @@
 ## Kole
 
 💜 JavaScript Developer  
-💼 Solutions Engineer  
 🌱 Alumni of the Ohio State University Full-stack Web Development Bootcamp. (Completion 4/21)  
 
 ### Technology Stack
