@@ -42,6 +42,9 @@
 <a align=left href='https://www.graphql.org/'>
   <img alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
 </a>
+<a align=left href='https://www.gatsbyjs.com/'>
+  <img alt="Gatsby" width="40px" src="https://camo.githubusercontent.com/b0972dd62bbf6ee0e28ed0ebceb48427a481568caeeb639066b23c754f0c60e5/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" />
+</a>
                                                                                                         
 <br />
 
