@@ -1,7 +1,7 @@
 ## Kole
-
-💜 JavaScript Developer  
-🌱 Alumni of the Ohio State University Full-stack Web Development Bootcamp. (Completion 4/21)  
+React Developer  
+AWH / IncludeHealth
+Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
 ### Preferred Technology Stack
 - React
