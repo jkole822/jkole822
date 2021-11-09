@@ -1,7 +1,8 @@
 ## Kole
-React Developer  
-AWH / IncludeHealth
-Alumni of the Ohio State University Full-stack Web Development Bootcamp
+### About
+- React Developer  
+- Employed at AWH / IncludeHealth
+- Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
 ### Preferred Technology Stack
 - React
