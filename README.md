@@ -5,12 +5,15 @@
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
 ### Preferred Technology Stack
-- React
+- React / React Native
+- React Hooks
 - NextJS
-- GraphQL
-- Apollo Server & Client
 - TypeScript
+- GraphQL
 - Prisma
+- Apollo Server & Client
+- Redux
+- Emotion
                                                                                                         
 <br />
 
