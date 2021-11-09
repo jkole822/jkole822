@@ -3,48 +3,13 @@
 💜 JavaScript Developer  
 🌱 Alumni of the Ohio State University Full-stack Web Development Bootcamp. (Completion 4/21)  
 
-### Technology Stack
-#### Click to be directed to the website/documentation
-
-<a href='https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5'>
-  <img alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-</a>
-<a align=left href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-  <img alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-</a>
-<a align=left href='https://sass-lang.com/'>
-  <img alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-</a>
-<a align=left href='https://www.javascript.com/'>
-  <img alt="JavaScript" width="40x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</a>
-<a align=left href='https://jquery.com/'>
-  <img alt="jQuery" width="40x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-</a>
-<a align=left href='https://reactjs.org/'>
-  <img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</a>
-<a align=left href='https://redux.js.org/'>
-  <img alt="Redux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-</a>
-<a align=left href='https://nodejs.org/en/'>
-  <img alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-</a>
-<a align=left href='https://expressjs.com/'>
-  <img alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-</a>
-<a align=left href='https://www.mongodb.com/2'>
-  <img alt="MongoDB" width="40px" src="https://www.instana.com/media//01_INSTANA_IconSet_MongoDB.svg" />
-</a>
-<a align=left href='https://www.mysql.com/'>
-  <img alt="mySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-</a>
-<a align=left href='https://www.graphql.org/'>
-  <img alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
-</a>
-<a align=left href='https://www.gatsbyjs.com/'>
-  <img alt="Gatsby" width="40px" src="https://camo.githubusercontent.com/b0972dd62bbf6ee0e28ed0ebceb48427a481568caeeb639066b23c754f0c60e5/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" />
-</a>
+### Preferred Technology Stack
+- React
+- NextJS
+- GraphQL
+- Apollo Server & Client
+- TypeScript
+- Prisma
                                                                                                         
 <br />
 
