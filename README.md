@@ -14,6 +14,7 @@
 - Apollo Server & Client
 - Redux
 - Emotion
+- Cypress
                                                                                                         
 <br />
 
