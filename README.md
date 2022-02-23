@@ -1,19 +1,22 @@
 ## Kole
 ### About
-- React Developer  
-- Employed at AWH / IncludeHealth
+- Front-end (React) Developer  
+- Employed at Mindstream Interactive
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
 ### Preferred Technology Stack
-- React / React Native
-- React Hooks
+- React (w. Hooks)
+- Vue
+- NestJS
 - NextJS
+- NuxtJS
 - TypeScript
 - GraphQL
 - Prisma
 - Apollo Server & Client
 - Redux
 - Emotion
+- Jest
 - Cypress
                                                                                                         
 <br />
