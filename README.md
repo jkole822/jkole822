@@ -4,7 +4,7 @@
 - Employed at Mindstream Interactive
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
-### Preferred Technology Stack
+### Preferred Technology
 - React (w. Hooks)
 - Vue
 - NestJS
