@@ -15,7 +15,9 @@
 - Prisma
 - Apollo Server & Client
 - Redux
-- Emotion
+- Stitches CSS-in-JS
+- Radix Component Library
+- Sanity CMS
 - Jest
 - Cypress
                                                                                                         
