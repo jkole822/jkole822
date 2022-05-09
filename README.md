@@ -17,11 +17,7 @@
 - Redux
 - Stitches CSS-in-JS
 - Radix Component Library
-- Sanity CMS
-- Jest
-- Cypress
-                                                                                                        
-<br />
+- Sanity CMS                                                                                                        
 
 ### View My Top Projects!
 <a href='https://behemoth-app.vercel.app'>
