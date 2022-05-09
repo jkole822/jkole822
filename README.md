@@ -5,7 +5,7 @@
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
 ### Preferred Technology
-- React (w. Hooks)
+- React
 - Vue
 - NestJS
 - NextJS
@@ -21,6 +21,13 @@
 - Jest
 - Cypress
                                                                                                         
+<br />
+
+### View My Top Projects!
+<a href='https://behemoth-app.vercel.app'>
+  Behemoth | Training & Exercise Tracker
+</a>
+
 <br />
 
 ### Let's Connect!
@@ -39,10 +46,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkole822)](https://github.com/anuraghazra/github-readme-stats)
 
-### View My Top Projects!
-<a href='https://behemoth-app.vercel.app'>
-  Behemoth
-</a>
 
 
 
