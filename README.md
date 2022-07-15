@@ -24,6 +24,10 @@
   Behemoth | Training & Exercise Tracker
 </a>
 
+<a href='https://daedalus-app.vercel.app/'>
+  Daedalus | Disc Golf Companion
+</a>
+
 <br />
 
 ### Let's Connect!
