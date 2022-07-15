@@ -20,13 +20,18 @@
 - Sanity CMS                                                                                                        
 
 ### View My Top Projects!
-<a href='https://behemoth-app.vercel.app'>
-  Behemoth | Training & Exercise Tracker
-</a>
-
-<a href='https://daedalus-app.vercel.app/'>
-  Daedalus | Disc Golf Companion
-</a>
+<ul>
+  <li>
+    <a href='https://behemoth-app.vercel.app'>
+    Behemoth | Training & Exercise Tracker
+    </a>
+  </li>
+  <li>
+    <a href='https://daedalus-app.vercel.app/'>
+    Daedalus | Disc Golf Companion
+    </a>
+  </li>
+</ul>
 
 <br />
 
