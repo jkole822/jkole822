@@ -6,17 +6,19 @@
 
 ### Preferred Technology
 - React
-- Vue
+- Svelte
 - NestJS
 - NextJS
-- NuxtJS
+- tRPC
 - TypeScript
 - GraphQL
 - Prisma
 - Apollo Server & Client
+- React Query
 - Redux
 - Stitches CSS-in-JS
 - Radix Component Library
+- TailwindCSS
 - Sanity CMS                                                                                                        
 
 ### View My Top Projects!
