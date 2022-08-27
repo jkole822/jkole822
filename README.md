@@ -14,9 +14,7 @@
 - GraphQL
 - Prisma
 - Apollo Server & Client
-- React Query
 - Redux
-- Stitches CSS-in-JS
 - Radix Component Library
 - TailwindCSS
 - Sanity CMS                                                                                                        
@@ -24,13 +22,18 @@
 ### View My Top Projects!
 <ul>
   <li>
-    <a href='https://behemoth-app.vercel.app'>
-    Behemoth | Training & Exercise Tracker
+    <a href='https://behemoth-training.com'>
+      Behemoth | Training & Exercise Tracker
     </a>
   </li>
   <li>
-    <a href='https://daedalus-app.vercel.app/'>
-    Daedalus | Disc Golf Companion
+    <a href='https://daedalus-disc-golf.com'>
+      Daedalus | Disc Golf Companion
+    </a>
+  </li>
+    <li>
+    <a href='https://leviathan-nutrition.vercel.app'>
+      Leviathan | Calorie Counter & Meal Tracker
     </a>
   </li>
 </ul>
