@@ -1,6 +1,6 @@
 ## Kole
 ### About
-- Front-end (React) Developer  
+- Front-end Developer  
 - Employed at Mindstream Interactive
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
