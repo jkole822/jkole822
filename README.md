@@ -4,39 +4,12 @@
 - Employed at Mindstream Interactive
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
-### Preferred Technology
+### Technology I Am Passionate For
+- JavaScript/TypeScript
+- PHP
 - React
 - Svelte
-- NestJS
-- NextJS
-- tRPC
-- TypeScript
-- GraphQL
-- Prisma
-- Apollo Server & Client
-- Redux
-- Radix Component Library
-- TailwindCSS
-- Sanity CMS                                                                                                        
-
-### View My Top Projects!
-<ul>
-  <li>
-    <a href='https://behemoth-training.com'>
-      Behemoth | Training & Exercise Tracker
-    </a>
-  </li>
-  <li>
-    <a href='https://daedalus-disc-golf.com'>
-      Daedalus | Disc Golf Companion
-    </a>
-  </li>
-    <li>
-    <a href='https://leviathan-nutrition.vercel.app'>
-      Leviathan | Calorie Counter & Meal Tracker
-    </a>
-  </li>
-</ul>
+- Laravel
 
 <br />
 
