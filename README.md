@@ -6,9 +6,11 @@
 
 ### Technology I Am Passionate For
 - JavaScript/TypeScript
-- PHP
+- Rust
+- Flutter
 - React
 - Svelte
+- PHP
 - Laravel
 
 <br />
