@@ -1,6 +1,6 @@
 ## Kole
 ### About
-- Fullstack Developer  
+- Full Stack Developer  
 - Employed at Mindstream Interactive
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
