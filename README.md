@@ -4,12 +4,14 @@
 - Employed at Mindstream Interactive
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
-### Technology I Am Passionate For
-- JavaScript/TypeScript
+### Interests & Competencies
+- TypeScript
 - Rust
 - Flutter
 - React
+- Vue
 - Svelte
+- SolidJS
 - PHP
 - Laravel
 
