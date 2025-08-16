@@ -5,15 +5,15 @@
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
 ### Interests & Competencies
-- TypeScript
-- Rust
-- Flutter
+- JavaScript/TypeScript
 - React
 - Vue
 - Svelte
 - SolidJS
 - PHP
 - Laravel
+- Rust
+- Flutter
 
 <br />
 
