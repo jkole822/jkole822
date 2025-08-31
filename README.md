@@ -5,6 +5,7 @@
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
 ### Interests & Competencies
+- DevOps
 - JavaScript/TypeScript
 - React
 - Vue
@@ -12,7 +13,9 @@
 - SolidJS
 - PHP
 - Laravel
+- Python
 - Rust
+- Dart
 - Flutter
 
 <br />
