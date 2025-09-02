@@ -1,7 +1,7 @@
 ## Kole
 ### About
 - Full Stack Developer  
-- Employed at Mindstream Interactive
+- Employed at The Shipyard, LLC.
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
 <br />
