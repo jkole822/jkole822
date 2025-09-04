@@ -4,14 +4,11 @@
 - Employed at The Shipyard, LLC.
 - Alumni of the Ohio State University Full-stack Web Development Bootcamp
 
-<br />
-
 ### Let's Connect!
 <a href='https://www.linkedin.com/in/jkole822/'>
   <img alt='linkedin' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br />
 <br />
 
 ### Github Stats
